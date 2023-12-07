@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(61, 42, 42);
+}
+.pink {
+  color: pink;
+}
+.card {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+.pic {
+  width: 50%;
+}
